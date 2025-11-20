@@ -7,7 +7,6 @@ A React Native Android application demonstrating a custom splash screen implemen
 - **[Quick Start Guide](QUICKSTART.md)** - Get up and running in minutes
 - **[Splash Screen Implementation Details](SPLASH_SCREEN_INFO.md)** - How the custom splash screen works
 - **[Project Summary](PROJECT_SUMMARY.md)** - Complete project overview and features
-- **[GitHub Setup Guide](GITHUB_SETUP.md)** - Instructions for repository creation
 
 ## Features
 
@@ -176,7 +175,6 @@ Need more help? Check out these guides:
 | [QUICKSTART.md](QUICKSTART.md) | Essential commands and quick setup steps |
 | [SPLASH_SCREEN_INFO.md](SPLASH_SCREEN_INFO.md) | Deep dive into splash screen implementation |
 | [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md) | Technical stack, features, and learning points |
-| [GITHUB_SETUP.md](GITHUB_SETUP.md) | Push your project to GitHub |
 
 ## License
 
