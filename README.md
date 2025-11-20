@@ -166,16 +166,6 @@ npm install
 - **TypeScript** - Type-safe JavaScript
 - **expo-splash-screen** - Native splash screen control
 
-## 📖 Additional Resources
-
-Need more help? Check out these guides:
-
-| Document | Description |
-|----------|-------------|
-| [QUICKSTART.md](QUICKSTART.md) | Essential commands and quick setup steps |
-| [SPLASH_SCREEN_INFO.md](SPLASH_SCREEN_INFO.md) | Deep dive into splash screen implementation |
-| [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md) | Technical stack, features, and learning points |
-
 ## License
 
 MIT
