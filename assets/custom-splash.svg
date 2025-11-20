@@ -1,0 +1,15 @@
+<svg width="1284" height="2778" viewBox="0 0 1284 2778" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1284" height="2778" fill="#4A90E2"/>
+  <circle cx="642" cy="1389" r="150" fill="white" opacity="0.9"/>
+  <text x="642" y="1700" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="white" text-anchor="middle">
+    Hello World
+  </text>
+  <text x="642" y="1800" font-family="Arial, sans-serif" font-size="40" fill="white" text-anchor="middle" opacity="0.8">
+    React Native App
+  </text>
+  <g transform="translate(542, 1289)">
+    <path d="M100 0 L125 50 L75 50 Z" fill="#4A90E2" stroke="white" stroke-width="4"/>
+    <path d="M100 100 L75 50 L125 50 Z" fill="#4A90E2" stroke="white" stroke-width="4"/>
+    <circle cx="100" cy="50" r="10" fill="white"/>
+  </g>
+</svg>
